@@ -1,0 +1,1 @@
+<img class="h-8 w-auto" src="{{ url(asset('logo.png')) }}   " alt="config(app.name)">
